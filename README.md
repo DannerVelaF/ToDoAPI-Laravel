@@ -10,7 +10,7 @@
 # Tecnologías
 🔹 Laravel 11  
 🔹 MySQL  
-🔹 API REST con autenticación mediante tokens  
+🔹 jWT para creación y autenticación mediante tokens     
 🔹 Interfaz de línea de comandos (CLI) con Laravel Artisan  
 
 # Instalación
